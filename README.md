@@ -11,5 +11,5 @@
      Qi Chena, Amanda Whitbrooka, Uwe Aickelina and Chris Roadknightab
     aIntelligent Modelling and Analysis Research Group, School of Computer Science, University of Nottingham, Jubilee Campus, Wollaton Road, Nottingham, NG8 1BB, U.K. Corresponding author
   </p>
- <img src="article.png" alt="logo" width="700" height="450" />
+ <img src="article.png" alt="logo" width="750" height="500" />
 <br />
